@@ -8,13 +8,13 @@ This repository contains an exploratory data analysis (EDA) on a Netflix dataset
 
 - `Release_Date`
 - `Title`
-- 'Overview'
+- `Overview`
 - `Popularity`
 - `Vote_Count`
 - `Vote_Average`
 - `Original_Language`
 - `Genre`
-- 'Poster_Url'
+- `Poster_Url`
 
 ---
 
